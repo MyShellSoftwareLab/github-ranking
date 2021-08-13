@@ -1,0 +1,14 @@
+{
+  "name": "github-ranking",
+  "version": "0.0.1",
+  "description": "GitHub Ranking",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "node-fetch": "^2.6.1",
+    "run-parallel": "^1.2.0"
+  },
+  "devDependencies": {},
+  "author": "gussrw",
+  "license": "MIT"
+}
