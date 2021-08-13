@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Environment
+.env
+
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea
+.vscode
+package-lock.json
